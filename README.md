@@ -1,3 +1,15 @@
+# Firn (legacy)
+
+> **This repository is archived.** It's the original Firn, built on Electron, for Windows and Mac. It no longer gets updates, including security fixes.
+>
+> Firn is now a native Mac app, built with Swift and WebKit. It lives at [dwurgy/firn](https://github.com/dwurgy/firn). Why the change: [firnbrowser.com/mac](https://firnbrowser.com/mac).
+>
+> **Forks are welcome.** The code is under the Mozilla Public License 2.0, so you're free to build on it, a Windows version included. Changes to these files stay open under the same license. Please give your version its own name and icon: "Firn" and its logo stay with the Mac app.
+>
+> Thank you to everyone who tried this version. It's the reason there's a next one.
+>
+> — David
+
 # Firn
 
 A calm, minimal browser that's easy for everyone: vertical tabs, spaces, split view, and link previews, without the learning curve. No telemetry; your data stays on your device. Built on Chromium.
